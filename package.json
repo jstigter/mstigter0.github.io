@@ -1,0 +1,19 @@
+{
+  "name": "website-silvia",
+  "version": "1.0.0",
+  "description": "De waddencoach",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mstigter0/mstigter0.github.io.git"
+  },
+  "author": "Marc Stiget & Jo-an Stigter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mstigter0/mstigter0.github.io/issues"
+  },
+  "homepage": "https://github.com/mstigter0/mstigter0.github.io#readme"
+}
